@@ -1,0 +1,31 @@
+# Crimson Black: OLED black, warm off-white ink, crimson signal.
+# accent/cursor/color1 are the text-safe lift of brand crimson #e0112b (same hue 352.5deg):
+# 5.08:1 on black vs 4.28:1. Raw #e0112b is used only as border/fill (hyprland.conf, wallpapers).
+accent = "#ef2a42"
+cursor = "#ef2a42"
+
+foreground = "#e6e3df"
+background = "#000000"
+
+selection_foreground = "#ffffff"
+selection_background = "#5c0d16"
+
+# Normal (ANSI 0-7): monochrome UI, low-chroma hues so diffs/warnings stay distinguishable
+color0 = "#1a1a1a"
+color1 = "#ef2a42"
+color2 = "#a9b8a3"
+color3 = "#d9c9a3"
+color4 = "#a9aeb9"
+color5 = "#e8808b"
+color6 = "#c6c6c6"
+color7 = "#e6e3df"
+
+# Bright (ANSI 8-15)
+color8 = "#7c7c7c"
+color9 = "#f14157"
+color10 = "#c5d1c0"
+color11 = "#ece0c2"
+color12 = "#c9ccd4"
+color13 = "#f4a9b0"
+color14 = "#dedede"
+color15 = "#ffffff"

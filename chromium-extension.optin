@@ -1,0 +1,2 @@
+# Presence of this file opts the theme into the Chromium theme extension
+# (see ~/.config/omarchy/hooks/theme-set.d/20-chromium).
